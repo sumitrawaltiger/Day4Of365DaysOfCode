@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sumitrawaltiger/Day4Of365DaysOfCode#readme",
+  "bugs": {
+    "url": "https://github.com/sumitrawaltiger/Day4Of365DaysOfCode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitrawaltiger/Day4Of365DaysOfCode.git"
+  },
+  "license": "ISC",
+  "author": "Sumit Rawal",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
