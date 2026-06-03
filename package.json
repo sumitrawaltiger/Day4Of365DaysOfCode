@@ -1,0 +1,28 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "homepage": "https://github.com/sumitrawaltiger/Day4Of365DaysOfCode#readme",
+  "bugs": {
+    "url": "https://github.com/sumitrawaltiger/Day4Of365DaysOfCode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitrawaltiger/Day4Of365DaysOfCode.git"
+  },
+  "license": "ISC",
+  "author": "Sumit Rawal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
